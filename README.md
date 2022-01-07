@@ -1,0 +1,2 @@
+# .shutils
+Miscellaneous shell utilities 
