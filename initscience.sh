@@ -27,7 +27,7 @@ mkdir results
 echo "Initializing git"
 git init
 touch .gitignore
-echo "./.condaenv/" >> .gitignore
+echo ".condaenv/" >> .gitignore
 
 
 echo "Initializing environment"
